@@ -5,7 +5,7 @@ OpenManage Enterprise related PowerShell scripts. Used to automate tasks and mak
 ## Summary
 
   - [Prerequisites](#prerequisites)
-  - [Installing](#installing)
+  - [Installation](#installation)
   - [Deployment](#deployment)
   - [Authors](#authors)
   - [License](#license)
@@ -15,7 +15,7 @@ OpenManage Enterprise related PowerShell scripts. Used to automate tasks and mak
 All of the scripts require OpenManage Enterprise to be up and running along with an administrator account. 
     https://www.delltechnologies.com/en-us/solutions/openmanage/enterprise.htm
 
-### Installing
+### Installation
 
 Just clone this repository to your local host and run the scripts.
 
